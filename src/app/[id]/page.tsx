@@ -1,4 +1,4 @@
-import type {Restaurant} from "@/api";
+import type Restaurant from "@/api";
 
 import api from "@/api";
 
